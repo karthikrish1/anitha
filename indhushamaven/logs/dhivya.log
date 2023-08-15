@@ -1,0 +1,4 @@
+[INFO ] 2023-08-14 20:14:12.469 [main] l1 - visited website
+[INFO ] 2023-08-14 20:14:12.472 [main] l1 - going to click n checkboxes
+[WARN ] 2023-08-14 20:14:12.500 [main] l1 - check box may not be visible
+[INFO ] 2023-08-14 20:14:15.505 [main] l1 - closing
